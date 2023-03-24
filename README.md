@@ -6,7 +6,7 @@
 
 Being an engineering undergraduate, I am technically inclined and take great interest in exploring gadgets and motors. Considering interpersonal skills, I am an active listener and a team player. As the Chairman of CSI-VIVA Tech, I see myself as a person who possesses good organizational and management skills. I am proficient at UI/UX and Graphic designing. I am passionate about photography.
 
-<br><img alt="Coding" src="./assets/code.gif" align="right" width="250px"/>
+<br><img alt="Coding" src="./assets/code.gif" align="right" width="25%"/>
 
 ### 👨🏻  About Me
 
