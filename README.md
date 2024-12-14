@@ -10,12 +10,13 @@ Being an engineering undergraduate, I am technically inclined and take great int
 
 ### 👨🏻  About Me
 
-📍  I am from Mumbai, India.<br>
-🎓  Currently I am pursuing Computer Engineering at University of Mumbai.<br>
-💡  My area of special Inteest is UI/UX Designs. I work on various designs as a front-end developer.<br>
+🎓  Computer Engineering Graduate from University of Mumbai, India.<br>
+👨🏻‍💻  Currently, working as a Front End Developer at [DEPT®](https://www.deptagency.com/).<br>
+💡  My area of special Interest is UI/UX Designs. I work on various designs as a front-end developer.<br>
 ↗️  My key skills include leadership with an experience as the chairman at CSI VIVA-Tech for an year.<br>
+↗️  I hold strong expertise in Node.js and Javascript.<br>
 ✉️  Ping me at my mail id pranavstelangade@gmail.com.<br>
-📄  Have a look at my [Resume](https://pranavtelangade.me/img/resume.pdf) for more details about me.<br>
+📄  Have a look at my [Resume](https://pranavtelangade.github.io/img/resume.pdf) for more details about me.<br>
 🌐  Take a look at my [Latest project](https://safeindustries.onrender.com) on Node.js.<br>
 
 ### 🫱🏻‍🫲🏿Connect with me:
